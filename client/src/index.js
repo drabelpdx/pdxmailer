@@ -12,7 +12,6 @@ import reducers from './reducers';
 import axios from 'axios';
 window.axios = axios;
 
-//This is just a line to allow a push to heroku
 const store = createStore(reducers, {}, applyMiddleware(reduxThunk));
 
 ReactDOM.render(

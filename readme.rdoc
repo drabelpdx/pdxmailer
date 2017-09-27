@@ -10,3 +10,5 @@ Other 3rd Party services include:
 - SendMail to send and track responses
 
 Having used many of these services in other apps, it was great fun putting this all together.
+
+The app is up on heroku: https://pdx-mailer.herokuapp.com

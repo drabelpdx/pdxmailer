@@ -1,15 +1,20 @@
 This is PDXMailer
 
+The app lets users send a batch of emails(surveys) and track the response(feedback) from addressees.
 It's built following Stephen Grider's Emaily app.
 
+
 Architecture
+
 The app has a Node/Express.js backend and a React.js frontend.
 Redux for state management and MongoDB for its database.
+
 
 Other 3rd Party services include:
 - Google Auth for Sign in
 - Stripe for payment
 - SendMail to send and track responses
+
 
 Having used many of these services in other apps, it was great fun putting this all together.
 

@@ -1,4 +1,6 @@
-This is PDXMailer. It's built following Stephen Grider's Emaily app.
+This is PDXMailer
+
+It's built following Stephen Grider's Emaily app.
 
 Architecture
 The app has a Node/Express.js backend and a React.js frontend.
